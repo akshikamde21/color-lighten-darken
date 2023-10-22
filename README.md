@@ -1,6 +1,7 @@
 # Color Lighten/Darken App
 
 The Color Lighten/Darken App is a simple web application that takes a hex color code as input and allows the user to either lighten or darken it using a toggle. The app also provides the flexibility to vary the percentage of color lightening and darkening. The final output is displayed as an altered color.
+Check out the live [website](https://akshikamde21.github.io/color-lighten-darken-app/)!
 
 
 ## Project Description
